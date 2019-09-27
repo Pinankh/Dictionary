@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        >
+    <TextView
+        android:id="@+id/word_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Word Name"
+        android:layout_marginRight="25dp"
+        android:typeface="sans"
+        android:textColor="#000"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        />
+
+        <ImageView
+            android:id="@+id/img_isComplete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            app:srcCompat="@drawable/ic_complate"></ImageView>
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="7dp"
+        >
+
+        <TextView
+            android:id="@+id/txt_isNoun"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Noun"
+            android:textColor="#303030"
+            android:textStyle="italic"
+            />
+
+        <TextView
+            android:id="@+id/txt_isPlural"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="( Plural word_name )"
+            android:layout_marginLeft="7dp"
+
+            android:textColor="#797979"
+            android:textStyle="italic"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/lbl_verb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verb"
+        android:textColor="#303030"
+        android:textStyle="italic"
+        android:layout_margin="7dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_verb_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Noun Description"
+        android:layout_marginLeft="15dp"
+        android:drawableLeft="@drawable/ic_bulleting"
+        android:gravity="center"
+        android:textColor="#797979"
+        android:textStyle="normal"
+        />
+
+    <TextView
+        android:id="@+id/lbl_orgin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Origin"
+        android:textColor="#303030"
+        android:textStyle="italic"
+        android:layout_margin="7dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_orgin_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Orgin Description"
+        android:layout_marginLeft="15dp"
+        android:drawableLeft="@drawable/ic_bulleting"
+        android:gravity="center"
+        android:textColor="#797979"
+        android:textStyle="normal"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="7dp"
+        android:background="#A2A2A2"/>
+
+</LinearLayout>

@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1089590009748",
+    "firebase_url": "https://chating-master-11c0a.firebaseio.com",
+    "project_id": "chating-master-11c0a",
+    "storage_bucket": "chating-master-11c0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089590009748:android:e2865a230e349b61",
+        "android_client_info": {
+          "package_name": "com.koddev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089590009748-7ef6pklp25h89up0429pgabuqbvspav3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koddev.chatapp",
+            "certificate_hash": "565c77206c1d7bf1e84af24775721771adf8c0f2"
+          }
+        },
+        {
+          "client_id": "1089590009748-v1c69ld5uiapeg12ii5mm12l8mgihuge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzI3gLqGzmeIq5pmseQYQ3RyUXwk6w4CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089590009748-v1c69ld5uiapeg12ii5mm12l8mgihuge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089590009748:android:2891100ae0ab5fbcd03981",
+        "android_client_info": {
+          "package_name": "com.mydictionary.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089590009748-mt3vlla66egtd321g0fkd7jkj57ts22t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mydictionary.android",
+            "certificate_hash": "910d76849b3b0ffcf2afb44e3c9b732e71d48b37"
+          }
+        },
+        {
+          "client_id": "1089590009748-v1c69ld5uiapeg12ii5mm12l8mgihuge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzI3gLqGzmeIq5pmseQYQ3RyUXwk6w4CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089590009748-v1c69ld5uiapeg12ii5mm12l8mgihuge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089590009748:android:ac87152527c3f9ed",
+        "android_client_info": {
+          "package_name": "com.pinalpatel.chating.test.pinalkumar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089590009748-fhrbtrmpk9tsd8oedkisqqd82r49um37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinalpatel.chating.test.pinalkumar",
+            "certificate_hash": "60b9e03ebfed6307e32f052ec22b73ba7dbb142d"
+          }
+        },
+        {
+          "client_id": "1089590009748-v1c69ld5uiapeg12ii5mm12l8mgihuge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzI3gLqGzmeIq5pmseQYQ3RyUXwk6w4CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089590009748-v1c69ld5uiapeg12ii5mm12l8mgihuge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

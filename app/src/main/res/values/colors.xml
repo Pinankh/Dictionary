@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#ffffff</color>
+
+    <color name="colorPrimary">#0390FB</color>
+    <color name="colorPrimaryDark">#5C5C5C</color>
+    <color name="colorAccent">#0390FB</color>
+
+    <!-- My Common Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#00ab03</color>
+    <color name="gray">#c7c7c7</color>
+    <color name="dark_gray">#9b9a9a</color>
+    <color name="blue_link">#257df1</color>
+
+
+    <!-- Slider Screens background -->
+    <color name="bg_screen1">#ffffff</color>
+    <color name="bg_screen2">#ffffff</color>
+    <color name="bg_screen3">#ffffff</color>
+
+    <!-- Slider Screens dots active colors -->
+    <color name="dot_active">#000000</color>
+    <!-- Slider Screens dots in-active colors -->
+    <color name="dot_inactive">#aaa</color>
+
+</resources>
